@@ -1,0 +1,10 @@
+{
+    "binance": {
+        "api_key": "your_binance_api_key",
+        "api_secret": "your_binance_api_secret"
+    },
+    "hitbtc": {
+        "api_key": "your_hitbtc_api_key",
+        "api_secret": "your_hitbtc_api_secret"
+    }
+}
